@@ -1,1 +1,3 @@
 sky
+star
+sun
